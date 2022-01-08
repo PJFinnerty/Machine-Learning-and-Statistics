@@ -7,3 +7,6 @@ scikit-image
 ipython
 jupyter
 pandas
+joblib
+collections
+scipy.special
